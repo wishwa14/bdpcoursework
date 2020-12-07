@@ -24,7 +24,7 @@ cd resource
 unzip dataset/results.zip
 ```
 
-## Copy dataset into hdfs
+## Copy dataset into hdfs file system
 
 ```
 hdfs dfs -mkdir coursework
